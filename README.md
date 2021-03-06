@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on the Internet.
+- 🌱 I’m currently learning html/css
+- 👯 I’m looking to collaborate on nothing
+- 📫 How to reach me: "I'm not interested."
+- ⚡ Fun fact: "I have no job."
 ![MadManDTT's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmandtt&show_icons=true&theme=tokyonight)
