@@ -1,4 +1,4 @@
-### Hi there 👋
+###  MADMANDD💬
 
 <!--
 **madmandtt/madmandtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 _____________________________________________
 
 - 🔭 I’m currently working on the Internet.
-- 🌱 I’m currently learning ?
-- 👯 I’m looking to collaborate on nothing ?
-- 📫 How to reach me: "I'm not interested."
+- 🌱 I’m currently learning human behavior analysis.
+- 👯 I’m looking to collaborate on everything I can commit.
+- 📫 How to reach me: "Money?"
 - ⚡ Fun fact: "I have no job. ???-.-??? "
 
-_____________________________________________
 
-<script src="https://tryhackme.com/badge/118433"></script>
-<img src="https://tryhackme-badges.s3.amazonaws.com/MadManD.png" alt="TryHackMe">v
+
+[![GooglePlay](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Play_Store_badge_IT.svg/120px-Google_Play_Store_badge_IT.svg.png)](https://play.google.com/store/apps/dev?id=8134236979532491946)
+
+_____________________________________________
