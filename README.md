@@ -1,4 +1,4 @@
-###  MADMANDD💬
+###  @madtouchstudio 💬
 
 <!--
 **madmandtt/madmandtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ _____________________________________________
 - 🔭 I’m currently working on the Internet.
 - 🌱 I’m currently learning human behavior analysis.
 - 👯 I’m looking to collaborate on everything I can commit.
-- 📫 How to reach me: "Money?"
+- 📫 [madtouchstudio](https://madstudio.dev/)
 - ⚡ Fun fact: "I have no job. ???-.-??? "
 
 
