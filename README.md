@@ -19,7 +19,6 @@ _____________________________________________
 - 🔭 I’m currently working on the Internet.
 - 🌱 I’m currently learning human behavior analysis.
 - 👯 I’m looking to collaborate on everything I can commit.
-- 📫 [madtouchstudio](https://madstudio.dev/)
 - ⚡ Fun fact: "I have no job. ???-.-??? "
 
 
