@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 _____________________________________________
 
-- 🔭 I’m currently working on the Internet.
-- 🌱 I’m currently learning human behavior analysis.
-- 👯 I’m looking to collaborate on everything I can commit.
-- ⚡ Fun fact: "I have no job. ???-.-??? "
+Nobody
 
 
 
